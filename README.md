@@ -1,2 +1,9 @@
-# ClustGClosed
-A pipeline based on clustering techniques, which combines different tools for closing gaps present in the genomes
+
+
+### ClustGCloed ###
+
+
+* Version 1.0
+
+
+access the web version in: computationalbiology.ufpa.br/ClustGClosed/
